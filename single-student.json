@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Piyush Keer",
+      "father": "Kamlesh Keer",
+      "class": "2-3",
+      "dob": "09-07-2015",
+      "contact": "9589076866",
+      "address": "H.N-B3-79, Natraj colony.",
+      "photo": "./piyush-keer.jpg",
+      "school": {
+        "name": "Bethany Convent School",
+        "address": "Indus Town, Bhopal, M.P,462026",
+        "addre": "ph-9039677482",
+        "addres": "Indus Town, Bhopal, M.P,462026",
+        "session": "2025-2027",
+        "logo": "./logo-indus-town.png",
+        "building": "./deshbord1.jpg",
+        "codes": { "Scholar": "BCS/1166", "udise": "23320214508" },
+        "contact": {
+          "phone": "9039677482",
+          "email": "samuel.james36@gmail.com"
+        }
+      }
+    }
+  ]
+}
